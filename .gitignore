@@ -1,0 +1,44 @@
+# Build / IDE
+bin/
+obj/
+.vs/
+*.suo
+*.user
+*.vbw
+*.scc
+*.vssscc
+*.vspscc
+*.exe
+*.dll
+*.ocx
+*.lib
+*.exp
+*.pdb
+*.log
+*.tmp
+*.bak
+
+# Secrets / credentials (never upload)
+*.pfx
+*.p12
+*.pem
+*.key
+.env
+
+# Redacted originals (see *.example files)
+types.inc
+Samples/Extents/mdlIOleObject.bas
+Samples/Extents/Form1.frm
+Samples/Extents/mdlVTable.bas
+Samples/Extents/UserControl1.ctl
+Samples/TypeInfo Sample 2/Form1.frm
+Samples/ComponentCategoriesMgr/frmCatMgrTest.frm
+Samples/Context Menu/Test3.ctl
+Samples/Context Menu/mdlCtxMenu.bas
+Samples/Context Menu/Form1.frm
+Samples/Context Menu/Test1.ctl
+Samples/Context Menu/Test2.ctl
+Samples/TypeInfo sample/Form1.frm
+Samples/TypeInfo sample/mdlTypeInfo.bas
+Samples/Invoke sample/Form1.frm
+Samples/Invoke sample/Invoke.bas
