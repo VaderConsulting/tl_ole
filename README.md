@@ -45,7 +45,7 @@ Open the `.vbp` in Visual Basic 6.0 IDE:
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `VB/tl_ole`.
+Working copy from my Historical Dev folder `VB/tl_ole`.
 Company names in `.vbp` files: Eduardo A. Morcillo, Microsoft Corporation.
 Third-party attribution: Eduardo A. Morcillo (Edanmo). See `THIRD_PARTY_NOTICES.md`.
 
