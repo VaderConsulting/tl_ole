@@ -2,7 +2,7 @@
 
 Eduardo A. Morcillo (Edanmo) OLE/ActiveX toolkit: `olelib.tlb`/`.odl` plus `.inc` interface headers and sample projects (IOleObject extents, context menus, IDispatch invoke, property pages, ActiveDesktop, component categories, TypeInfo). Sensitive typelib bits may be redacted to `*.example`. Open any sample `.vbp` under `Samples/` in the VB6 IDE.
 
-**Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** ActiveX OCX, WinForms exe
+**Source last updated:** 2002-06-29 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** ActiveX OCX, WinForms exe
 
 ## Solution structure
 
